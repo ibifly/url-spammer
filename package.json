@@ -1,0 +1,11 @@
+{
+  "name": "url-spammer",
+  "version": "0.0.1",
+  "description": "urlyi spamlatan bir repo",
+  "main": "ibidi.js",
+  "scripts": {
+    "test": "ibidi.js"
+  },
+  "author": "ibidi",
+  "license": "ISC"
+}
